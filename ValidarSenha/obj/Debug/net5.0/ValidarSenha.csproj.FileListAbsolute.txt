@@ -1,0 +1,16 @@
+D:\Projetos\ValidarSenha\bin\Debug\net5.0\ValidarSenha.exe
+D:\Projetos\ValidarSenha\bin\Debug\net5.0\ValidarSenha.deps.json
+D:\Projetos\ValidarSenha\bin\Debug\net5.0\ValidarSenha.runtimeconfig.json
+D:\Projetos\ValidarSenha\bin\Debug\net5.0\ValidarSenha.runtimeconfig.dev.json
+D:\Projetos\ValidarSenha\bin\Debug\net5.0\ValidarSenha.dll
+D:\Projetos\ValidarSenha\bin\Debug\net5.0\ref\ValidarSenha.dll
+D:\Projetos\ValidarSenha\bin\Debug\net5.0\ValidarSenha.pdb
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ValidarSenha.csproj.AssemblyReference.cache
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ValidarSenha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ValidarSenha.AssemblyInfoInputs.cache
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ValidarSenha.AssemblyInfo.cs
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ValidarSenha.csproj.CoreCompileInputs.cache
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ValidarSenha.dll
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ref\ValidarSenha.dll
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ValidarSenha.pdb
+D:\Projetos\ValidarSenha\obj\Debug\net5.0\ValidarSenha.genruntimeconfig.cache
